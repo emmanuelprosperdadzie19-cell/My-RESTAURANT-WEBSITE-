@@ -1,4 +1,4 @@
 Restaurant
 ==========
 
-M RESTAURANT WEBSIE
+M RESTAURANT WEBSITE 
