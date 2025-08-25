@@ -1,2 +1,4 @@
-# My-RESTAURANT-WEBSITE-
-PROSPERS RESTAURANT WEBSITE 
+Restaurant
+==========
+
+A template for Restaurant business
